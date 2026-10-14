@@ -1,5 +1,7 @@
 # URL Shortener API
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Built with](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+
 A small REST API that shortens URLs, redirects, and tracks clicks. Built with **plain Node.js — no dependencies**.
 
 ## Run
